@@ -1,1 +1,9 @@
-# Hospital-Queue-System
+# نظام إدارة طوابير المستشفيات
+## وصف النظام 
+*  يعمل النظام على ادارة الطوابير داخل المستشفى، مما يزيد من كفاءة الخدمة للمرضى ويقلل الوقت الذي يقضيه في الانتظار، من خلال إنشاء قائمة انتظار مركزية وديناميكية.
+  ## فيديو النظام
+  <video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
